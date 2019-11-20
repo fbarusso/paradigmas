@@ -1,0 +1,19 @@
+É IMPORTANTE QUE A PASTA casosDeTeste EXISTA, MESMO ELA (E SUAS SUBPASTAS) ESTANDO VAZIAS
+
+Com os arquivos do trabalho de Estrutura de Dados contido na pasta src não é possível visualizar
+elementos do trabalho 3, como prédios.
+
+O arquivo script.py roda os testes no trabalho contido em src
+
+Os casos de teste .geo e .qry gerados ficam em ./casosDeTeste
+
+Os arquivos .svg e .txt gerados (após a execução do script.py) ficam em ./src/saida.
+
+O script apagartestes.py permite que o programa racket seja rodado novamente para a geração de
+uma nove série de testes. 
+
+Grupo:
+- Claudio Bento Reis Neto
+- Felipe Alves Barusso
+- Vinicius Cesar dos Santos
+
